@@ -20,7 +20,6 @@ Here we can see how the ProgressBar change visibility depends on MutableLiveData
 Also it's an example of user actions passing from Button view to the Fragment using SingleLiveEvent in the ViewModel.
 
 >ViewModel:
-
 ```kotlin
 class AppViewModel : ViewModel() {
 

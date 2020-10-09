@@ -14,9 +14,9 @@ Technology stack:
 - Retrofit2
 
 
-**Example data transfering between UI and ViewModel using MutableLiveData and SingleLiveEvent**
+**Example of data transfering between UI and ViewModel using MutableLiveData and SingleLiveEvent**
 
-Here we can see how the ProgressBar changes visibility depends on MutableLiveData in the ViewModel.
+Here we can see how the ProgressBar change visibility depends on MutableLiveData in the ViewModel.
 Also it's an example of user actions passing from Button view to the Fragment using SingleLiveEvent in the ViewModel.
 
 >ViewModel:
